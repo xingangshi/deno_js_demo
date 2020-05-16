@@ -1,0 +1,7 @@
+* text=auto eof=lf encoding=utf-8
+
+*.proj elo=crlf
+
+*.gif binary
+*.jpg binary
+*.png binary
